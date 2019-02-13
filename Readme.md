@@ -8,7 +8,7 @@
 
 ## USB Flash drive V-GEN
 
-![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/tree/master/assets/fd.JPG)
+![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/blob/master/assets/fd.JPG)
 
 ### Problem
 My usb flash drive have a bad design on its USB connector. The connector is located inside the flash drive body, thus we have to take that out by wiping the red button on the left side of the body (I'll show you how to use my usb flash drive on the attached video). Sometimes when my hands feel moist, it'll be harder to wipe the red button. This is slightly annoy me because it'll takes more time to connect my flash drive to the laptop/PC. 
@@ -20,7 +20,7 @@ I think the solution for this problem is changing the usb flash drive model. As 
 
 ## Heehjek, A Mobile Apps for Ordering _Ojek_ in Nganjuk
 
-![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/tree/master/assets/heehjek.jpg)
+![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/blob/master/assets/heehjek.jpg)
 
 Heehjek is an online platform for ordering _ojek_ in Nganjuk, my hometown. This is a kind of _Gojek_ or _Grab_ application.
 
@@ -34,7 +34,7 @@ For the first case of this problem, we have to choose a familiar word to represe
 
 ## Share ITS Website Application
 
-![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/tree/master/assets/shareits.JPG)
+![](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/blob/master/assets/shareits.JPG)
 
 [Share ITS](http://share.its.ac.id/) is one of the online learning platform for ITS students. 
 
