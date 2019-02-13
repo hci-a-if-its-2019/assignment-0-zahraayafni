@@ -28,7 +28,7 @@ Heehjek is an online platform for ordering _ojek_ in Nganjuk, my hometown. This 
 I found some bad UX design on this apps. As we can see in the above image, there's a button named "NGLADENI". At first, i don't get the purpose of this button. I live in Nganjuk about 9 years, but still can't reach the aim of this button. Then, i try to hit this button and found a list of menu that offer some services like event organizer for a party, Photo and video documentation, etc. But, they didn't give more information about how this service work, no explanation for the packages that offered but there are options for the packages. In addition, we have to hit the 'Pilihan Varian Layanan' bar 3 times to pop up the options that offered, but still there are no more information for each package. I still continued my journey on this application until the order process finished. But, i'm as a user for this apps feeling upset because i don't know what to do with the ordered service. 
 
 ### Solution
-For the first case of this problem, we have to choose a familiar word to represent our menu. So that our user can get the use of a button at one time. Next, i would like to suggest the developer for this apps to add more details or information for each service and package listed. If they're not ready yet to run this service (i mean this 'NGLADENI' button), they can make a pop up when this button on pressed and say something like "Sorry, this service is not ready yet. We will announce you when this feature is ready". This is more better than forcing to run a feature, but it will upsetting our user in near future.
+For the first case of this problem, we have to choose a familiar word to represent our menu. So that our user can get the use of a button at one time. Next, i would like to suggest the developer for this apps to add more details or information for each service and package listed. If they're not ready yet to run this service (i mean this 'NGLADENI' button), they can make a pop up when this button on pressed and say something like "Sorry, this service is not ready yet. We will announce you when this feature is ready. Thank you". This is more better than forcing to run a feature, but it will upsetting our user in near future.
 
 ---
 
@@ -53,3 +53,11 @@ I would like to say that this web application needs to be upgraded and doing mor
 ---
 
 ## Demonstration Video
+
+Kindly find the attached video below. I make a video for 3 cases of Bad UX Design in Tool/Application assignment.
+
+![Demo Video](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/blob/master/assets/HCI_A_16_108.mp4)
+
+---
+
+At the end, i would like to ask for your apoligize regarding any mistakes that i've done in this assignment. Thank you!
