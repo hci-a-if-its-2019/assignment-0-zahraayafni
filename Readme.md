@@ -41,7 +41,7 @@ For the first case of this problem, we have to choose a familiar word to represe
 ### Problem
 Let's begin this problem with a short story! :smiley:
 
-I have a friend, her name is Dyah. She is from Urban and Regional Planning Department of ITS. We know that ITS have been turned into a PTN-BH, this been a reason why FTSP(Fakultas Teknologi Sipil dan Perencanaan) was splitted into FTSLK(Fakultas Teknologi Sipil, Lingkungan, dan Kebumian) and FADP(Fakultas Arsitektur, Desain, dan Perencanaan). Formerly, my friend's department is belong to be part of FTSP. But then changed into FTSLK.
+I have a friend, her name is Dyah. She is from Urban and Regional Planning Department of ITS. We know that ITS has been turned into a PTN-BH, this been a reason why FTSP(Fakultas Teknologi Sipil dan Perencanaan) was splitted into FTSLK(Fakultas Teknologi Sipil, Lingkungan, dan Kebumian) and FADP(Fakultas Arsitektur, Desain, dan Perencanaan). Formerly, my friend's department is belong to be part of FTSP. But then changed into FTSLK.
 
 When she's trying to reach her course on Share ITS, she can't found her faculty on ShareITS's landing page grid button. As shown in the above picture, there's only exist FTSP which is her former faculty. There are no button for FADP nor FTSLK, but FBMT and Fvokasi is exist. My friend is getting confused, then she is trying to find her faculty/course by pressing the FTSP button. And again, this button doesn't take my friend to the splitted faculty. But it landed on FTSLK page (a list of departments in FTSLK), which is not belong to FTSP anymore. Then, she's trying to find her course manually on its navigation bar, by hit the menu one by one. 
 
@@ -56,8 +56,8 @@ I would like to say that this web application needs to be upgraded and doing mor
 
 Kindly find the attached video below. I make a video for 3 cases of Bad UX Design in Tool/Application assignment.
 
-![Demo Video](https://github.com/hci-a-if-its-2019/assignment-0-zahraayafni/blob/master/assets/HCI_A_16_108.mp4)
+[Demo Video](https://drive.google.com/open?id=1_Ej0gyp6jLRSDWOMwYMD76wkiQkpy7wt)
 
 ---
 
-At the end, i would like to ask for your apoligize regarding any mistakes that i've done in this assignment. Thank you!
+Last but not least, i would like to ask for your apoligize regarding any mistakes that i've done in this assignment. Thank you!
